@@ -13,7 +13,7 @@ The implementation is based on the [Deep Subspace Clustering Network](https://gi
 - scipy
 
 ## Data
-The data can be found [here](https://github.com/panji1990/Deep-subspace-clustering-networks).
+The data can be found [here](https://github.com/panji1990/Deep-subspace-clustering-networks/tree/master/Data).
 
 ## Citation
 Please cite our paper if you use this code in your own work:
