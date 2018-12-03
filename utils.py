@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.sparse.linalg import svds
-from sklearn import cluster, metrics
-from sklearn.metrics.cluster.supervised import contingency_matrix
+from sklearn import cluster
 from sklearn.preprocessing import normalize
 from munkres import Munkres
 
