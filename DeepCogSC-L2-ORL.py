@@ -1,10 +1,6 @@
-# Code Authors: Pan Ji,     University of Adelaide,         pan.ji@adelaide.edu.au
-#               Tong Zhang, Australian National University, tong.zhang@anu.edu.au
-# Copyright Reserved!
 import math
 import tensorflow as tf
 import numpy as np
-import matplotlib.pyplot as plt
 from tensorflow.contrib import layers
 import scipy.io as sio
 from utils import thrC, post_proC, err_rate
