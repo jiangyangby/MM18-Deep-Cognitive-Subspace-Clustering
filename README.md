@@ -4,7 +4,7 @@ This is a TensorFlow implementation of the Deep Cognitive Subspace Clustering mo
 >Y. Jiang, Z. Yang, Q. Xu, X. Cao and Q. Huang. When to Learn What: Deep Cognitive Subspace Clustering. ACM MM 2018.
 
 ## Acknowledge
-The implementation is based on the [Deep Subspace Clustering Network](https://github.com/panji1990/Deep-subspace-clustering-networks). We sincerely thank the authors for their work.
+The implementation is based on [Deep Subspace Clustering Network](https://github.com/panji1990/Deep-subspace-clustering-networks). We sincerely thank the authors for their work.
 
 ## Dependencies
 - Tensorflow
