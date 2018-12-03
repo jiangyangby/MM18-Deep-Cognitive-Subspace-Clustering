@@ -25,7 +25,6 @@ Please cite our paper if you use this code in your own work:
   author={Jiang, Yangbangyan and Yang, Zhiyong and Xu, Qianqian and Cao, Xiaochun and Huang, Qingming},
   booktitle={2018 ACM Conference on Multimedia},
   pages={718--726},
-  year={2018},
-  organization={ACM}
+  year={2018}
 }
 ```
